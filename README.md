@@ -2,8 +2,8 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitaee&&show_icons=true&theme=tokyonight)]
-<a href="https://solved.ac/profile/yepn1">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrlxo999">
+<a href="https://solved.ac/profile/dlrlxo999">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrlxo999">
 </a>
 
 
