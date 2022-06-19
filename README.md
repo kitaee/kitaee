@@ -4,6 +4,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitaee&&show_icons=true&theme=tokyonight)]
 
 
-MY-HOBBY : [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC2uKFCrjjXOEBBPrCRtfu4w)](https://www.youtube.com/c/kyleschool)
+MY-HOBBY : [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC2uKFCrjjXOEBBPrCRtfu4w)](https://www.youtube.com/channel/UC2uKFCrjjXOEBBPrCRtfu4w)
 
 
