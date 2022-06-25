@@ -5,6 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kitaee&theme=flat&column=7)](https://github.com/kitaee/github-profile-trophy)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kitaee&theme=dark)](https://git.io/streak-stats)
 
 MY-HOBBY(BASKETBALL) : [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC2uKFCrjjXOEBBPrCRtfu4w)](https://www.youtube.com/channel/UC2uKFCrjjXOEBBPrCRtfu4w)
 
