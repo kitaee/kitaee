@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitaee&&show_icons=true&theme=highcontrast)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kitaee&theme=juicyfresh&title=Organizations,Followers,Commit,PullRequest,Repositories)](https://github.com/kitaee/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kitaee&theme=juicyfresh&title=Organizations,Followers,Commit,PullRequest,Repositories,Stars)](https://github.com/kitaee/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kitaee&theme=merko)](https://git.io/streak-stats)
 
