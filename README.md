@@ -11,3 +11,4 @@
 | TELE_INA | 이용자가 예능 콘텐츠를 자유롭게 큐레이션하고 공유하는 웹 플랫폼, 텔레이나 | 백엔드 | https://github.com/Itaseki
 | SobunSobun | 지역 기반 커뮤니티 서비스 | 백엔드 | https://github.com/SobunSobun
 | ATS | 비대면으로 가게의 남은 좌석 및 배치도를 볼 수 있는 서비스 | 프론트, 백엔드 | https://github.com/KiSangChoiKO
+| WhatsYourTEAM | KBL 농구 팀 추천 서비스 | 백엔드 + 데이터 | https://github.com/WhatsYourTEAM
