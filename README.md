@@ -6,9 +6,8 @@
 ## 프로젝트
 | 프로젝트명 | 프로젝트 소개 | 역할 | 배포 |
 |:---:|:---:|:---:|:---:|
+| 텔링미 | 대학생의 자아정체성 확립을 위한 심리학 기반 문답 기록형 플랫폼 | 개발팀장 | https://tellingme.co.kr
 | OMNM | 중앙대학교 기숙사 룸메이트 매칭 서비스 | 팀장, 백엔드 | https://omnm.co.kr
 | CAUCLUB | 중앙대학교 내 모든 과 동아리 네트워크 형성 서비스 | 팀장, 백엔드 | https://github.com/CHOIGANGMEDIA
-| TELE_INA | 이용자가 예능 콘텐츠를 자유롭게 큐레이션하고 공유하는 웹 플랫폼, 텔레이나 | 백엔드 | https://github.com/Itaseki
-| SobunSobun | 지역 기반 커뮤니티 서비스 | 백엔드 | https://github.com/SobunSobun
-| ATS | 비대면으로 가게의 남은 좌석 및 배치도를 볼 수 있는 서비스 | 프론트, 백엔드 | https://github.com/KiSangChoiKO
-| WhatsYourTEAM | KBL 농구 팀 추천 서비스 | 백엔드 + 데이터 | https://github.com/WhatsYourTEAM
+| TELE_INA | 이용자가 예능 콘텐츠를 자유롭게 큐레이션하고 공유하는 웹 플랫폼, 텔레이나 | 백엔드 | https://teleina.swygbro.com
+| SobunSobun | 지역 기반 커뮤니티 서비스 | 백엔드 | https://sobunsobun.com
