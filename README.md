@@ -6,7 +6,8 @@
 ---
 
 기술블로그 : https://kitaees.tistory.com/ <br>
-이메일 : dlrlxo999@naver.com
+이메일 : dlrlxo999@naver.com <br>
+포트폴리오 : https://www.notion.so/kitaee/13ed03ebd595808aa56dc893d174aee8
 
 ---
 
